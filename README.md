@@ -38,12 +38,9 @@ To develop a secure, scalable, and user-friendly digital banking platform that s
 
 ### 👩‍💻 Project
 
-**Developed by:** Sowndarya Lakshmi
+**Developed by:** Sowndarya Lakshmi and team
 **Program:** Infosys Virtual Internship
-**Repository:** [FinCoreBankApplication](https://github.com/SowndaryaLakshmi04/finCoreBankApplication)
-
 ---
-
 License
 This project is licensed under the MIT License:
 Copyright (c) 2026 Sowndarya Lakshmi S
