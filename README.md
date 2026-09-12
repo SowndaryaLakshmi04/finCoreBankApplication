@@ -38,9 +38,7 @@ Spring Boot Backend
 
 ⭐ Acknowledgement
 
-I would like to express my sincere gratitude to Infosys for providing the opportunity to work on this project through the Virtual Internship program.
-
-The internship provided valuable hands-on experience in software development, problem solving, application design, and full-stack technologies.
+I would like to express my sincere gratitude to Infosys for providing the opportunity to work on this project through the Virtual Internship program. The internship provided valuable hands-on experience in software development, problem solving, application design, and full-stack technologies.
 
 ### 📜 License
 This project is licensed under the MIT License:
