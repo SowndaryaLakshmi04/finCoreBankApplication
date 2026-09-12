@@ -4,6 +4,10 @@
 
 FinCore is a full-stack digital banking application developed as part of the **Infosys Virtual Internship**. The application provides a centralized platform for managing customers, bank accounts, transactions, reports, and customer loans through role-based workflows.
 
+### 🎯 Objective
+
+To develop a secure, scalable, and user-friendly digital banking platform that simplifies core banking operations and provides an organized workflow for both administrators and customers.
+
 ### 🚀 Key Features
 
 * 🔐 **Role-Based Access** – Separate Admin and Customer workflows
@@ -31,10 +35,6 @@ Spring Boot Backend
        ↓
     MySQL DB
 ```
-
-### 🎯 Objective
-
-To develop a secure, scalable, and user-friendly digital banking platform that simplifies core banking operations and provides an organized workflow for both administrators and customers.
 
 ### 👩‍💻 Project
 
