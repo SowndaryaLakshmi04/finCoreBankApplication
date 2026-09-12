@@ -15,10 +15,10 @@ FinCore is a full-stack digital banking application developed as part of the **I
 
 ### 🛠️ Tech Stack
 
-**Frontend:** React.js, JavaScript, React Router, Axios, Bootstrap
-**Backend:** Java, Spring Boot, REST APIs, Hibernate/JPA
-**Database:** MySQL
-**Tools:** Git, GitHub, VS Code, Eclipse, Postman
+* **Frontend:** React.js, JavaScript, React Router, Axios, Bootstrap
+* **Backend:** Java, Spring Boot, REST APIs, Hibernate/JPA
+* **Database:** MySQL
+* **Tools:** Git, GitHub, VS Code, Eclipse, Postman
 
 ### 🏗️ Architecture
 
@@ -38,10 +38,10 @@ To develop a secure, scalable, and user-friendly digital banking platform that s
 
 ### 👩‍💻 Project
 
-**Developed by:** Sowndarya Lakshmi and team
-**Program:** Infosys Virtual Internship
+* **Developed by:** Sowndarya Lakshmi and team
+* **Program:** Infosys Virtual Internship
 ---
-License
+### License
 This project is licensed under the MIT License:
 Copyright (c) 2026 Sowndarya Lakshmi S
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction...
